@@ -21,7 +21,4 @@
   <organization>
   	<name>Shirui Ma</name>
   </organization>
-  <properties>
-  	<tycho-version>0.23.1</tycho-version>
-  </properties>
 </project>
